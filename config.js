@@ -26,7 +26,7 @@ module.exports = {
   SUDO: process.env.SUDO || '919074692450, 918157993101',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
   TIMEZONE: process.env.TIMEZONE || "Asia/Kolkata",
-  BOT_LANG: process.env.BOT_LANG || 'EN',
+  BOT_LANG: process.env.BOT_LANG || 'EN'Phonenix-Mc7xX8GZ,
   START_MSG: toBool(process.env.START_MSG || 'true'),
   ERROR_MSG: toBool(process.env.ERROR_MSG || 'true'), 
 
